@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Pirate Map" xmlns="http://www.topografix.com/GPX/1/1">
+<metadata><name>Пт: Грбая → цирк Крошня → развилка</name><desc>Из Грбаи через лес, осыпи и травяные полки (смотровая Доня Крошня ~1700) в каменный цирк Крошня до развилки троп (~2030 м). Если погода плохая — отсюда вниз той же тропой.</desc></metadata>
+<wpt lat="42.5261" lon="19.7856"><ele>1170</ele><name>01 Старт: Грбая (Сульова чесма — последняя вода)</name><desc></desc></wpt>
+<trk><name>Пт: Грбая → цирк Крошня → развилка</name><trkseg>
+<trkpt lat="42.5261" lon="19.7856"><ele>1168.0</ele></trkpt>
+<trkpt lat="42.52581" lon="19.785815"><ele>1171.0</ele></trkpt>
+<trkpt lat="42.525383" lon="19.786361"><ele>1162.0</ele></trkpt>
+<trkpt lat="42.524653" lon="19.786493"><ele>1161.0</ele></trkpt>
+<trkpt lat="42.52447" lon="19.786735"><ele>1151.0</ele></trkpt>
+<trkpt lat="42.524302" lon="19.787406"><ele>1151.0</ele></trkpt>
+<trkpt lat="42.523907" lon="19.787424"><ele>1149.0</ele></trkpt>
+<trkpt lat="42.52343" lon="19.78729"><ele>1149.0</ele></trkpt>
+<trkpt lat="42.522769" lon="19.787416"><ele>1147.0</ele></trkpt>
+<trkpt lat="42.522558" lon="19.787264"><ele>1147.0</ele></trkpt>
+<trkpt lat="42.521885" lon="19.787068"><ele>1146.0</ele></trkpt>
+<trkpt lat="42.521521" lon="19.786444"><ele>1148.0</ele></trkpt>
+<trkpt lat="42.520555" lon="19.786263"><ele>1144.0</ele></trkpt>
+<trkpt lat="42.520216" lon="19.786388"><ele>1144.0</ele></trkpt>
+<trkpt lat="42.519599" lon="19.78629"><ele>1139.0</ele></trkpt>
+<trkpt lat="42.518402" lon="19.785293"><ele>1162.0</ele></trkpt>
+<trkpt lat="42.51773" lon="19.785092"><ele>1164.0</ele></trkpt>
+<trkpt lat="42.517466" lon="19.784627"><ele>1166.0</ele></trkpt>
+<trkpt lat="42.517041" lon="19.784232"><ele>1166.0</ele></trkpt>
+<trkpt lat="42.516782" lon="19.783896"><ele>1186.0</ele></trkpt>
+<trkpt lat="42.516317" lon="19.783624"><ele>1164.0</ele></trkpt>
+<trkpt lat="42.516052" lon="19.783381"><ele>1164.0</ele></trkpt>
+<trkpt lat="42.515549" lon="19.783197"><ele>1168.0</ele></trkpt>
+<trkpt lat="42.515146" lon="19.783165"><ele>1168.0</ele></trkpt>
+<trkpt lat="42.514839" lon="19.78328"><ele>1158.0</ele></trkpt>
+<trkpt lat="42.514591" lon="19.783366"><ele>1156.0</ele></trkpt>
+<trkpt lat="42.514175" lon="19.783374"><ele>1156.0</ele></trkpt>
+<trkpt lat="42.51388" lon="19.783627"><ele>1166.0</ele></trkpt>
+<trkpt lat="42.513486" lon="19.783589"><ele>1166.0</ele></trkpt>
+<trkpt lat="42.513187" lon="19.783308"><ele>1191.0</ele></trkpt>
+<trkpt lat="42.512934" lon="19.78318"><ele>1191.0</ele></trkpt>
+<trkpt lat="42.512688" lon="19.78328"><ele>1191.0</ele></trkpt>
+<trkpt lat="42.512418" lon="19.783535"><ele>1214.0</ele></trkpt>
+<trkpt lat="42.512175" lon="19.78379"><ele>1214.0</ele></trkpt>
+<trkpt lat="42.511976" lon="19.784015"><ele>1214.0</ele></trkpt>
+<trkpt lat="42.511755" lon="19.784195"><ele>1221.0</ele></trkpt>
+<trkpt lat="42.511523" lon="19.78439"><ele>1257.0</ele></trkpt>
+<trkpt lat="42.511269" lon="19.78463"><ele>1257.0</ele></trkpt>
+<trkpt lat="42.51107" lon="19.784974"><ele>1257.0</ele></trkpt>
+<trkpt lat="42.510827" lon="19.784914"><ele>1257.0</ele></trkpt>
+<trkpt lat="42.510794" lon="19.785409"><ele>1326.0</ele></trkpt>
+<trkpt lat="42.510584" lon="19.785529"><ele>1326.0</ele></trkpt>
+<trkpt lat="42.510252" lon="19.785859"><ele>1358.0</ele></trkpt>
+<trkpt lat="42.509998" lon="19.786038"><ele>1358.0</ele></trkpt>
+<trkpt lat="42.509667" lon="19.785799"><ele>1366.0</ele></trkpt>
+<trkpt lat="42.509358" lon="19.786128"><ele>1403.0</ele></trkpt>
+<trkpt lat="42.509026" lon="19.786443"><ele>1456.0</ele></trkpt>
+<trkpt lat="42.508805" lon="19.786608"><ele>1456.0</ele></trkpt>
+<trkpt lat="42.508694" lon="19.787148"><ele>1496.0</ele></trkpt>
+<trkpt lat="42.508639" lon="19.787522"><ele>1549.0</ele></trkpt>
+<trkpt lat="42.508241" lon="19.787492"><ele>1557.0</ele></trkpt>
+<trkpt lat="42.508021" lon="19.787657"><ele>1594.0</ele></trkpt>
+<trkpt lat="42.507678" lon="19.787912"><ele>1594.0</ele></trkpt>
+<trkpt lat="42.507468" lon="19.788287"><ele>1673.0</ele></trkpt>
+<trkpt lat="42.507081" lon="19.788392"><ele>1699.0</ele></trkpt>
+<trkpt lat="42.506695" lon="19.788452"><ele>1699.0</ele></trkpt>
+<trkpt lat="42.506429" lon="19.787882"><ele>1744.0</ele></trkpt>
+<trkpt lat="42.505944" lon="19.787165"><ele>1778.0</ele></trkpt>
+<trkpt lat="42.505425" lon="19.787159"><ele>1830.0</ele></trkpt>
+<trkpt lat="42.505118" lon="19.787559"><ele>1795.0</ele></trkpt>
+<trkpt lat="42.504819" lon="19.787589"><ele>1851.0</ele></trkpt>
+<trkpt lat="42.504428" lon="19.787906"><ele>1851.0</ele></trkpt>
+<trkpt lat="42.504001" lon="19.789"><ele>1902.0</ele></trkpt>
+<trkpt lat="42.503569" lon="19.789692"><ele>1910.0</ele></trkpt>
+<trkpt lat="42.502893" lon="19.789874"><ele>1936.0</ele></trkpt>
+<trkpt lat="42.50249" lon="19.789821"><ele>1969.0</ele></trkpt>
+<trkpt lat="42.501725" lon="19.789998"><ele>1974.0</ele></trkpt>
+<trkpt lat="42.501391" lon="19.790155"><ele>2032.0</ele></trkpt>
+</trkseg></trk>
+</gpx>

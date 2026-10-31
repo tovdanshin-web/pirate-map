@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Pirate Map" xmlns="http://www.topografix.com/GPX/1/1">
+<metadata><name>Разведать: Karanfil Ljuljaševića (2224) — отвилка с нашего спуска после арки</name><desc>Самое близкое продолжение пятничного кольца на восток: после арки на спуске, у развилки (~1830 м), не вниз, а налево вверх по маркированной тропе на восточную вершину Каранфилей — смотровая сразу на Грбаю и Ропояну. ~1.4 км и +340 м от развилки, 1.5–2 ч туда-обратно сверх кольца.</desc></metadata>
+<wpt lat="42.5099059" lon="19.7978147"><ele>1830</ele><name>01 Развилка на спуске после арки</name><desc></desc></wpt>
+<wpt lat="42.5095558" lon="19.8032561"><ele>1930</ele><name>02 Перегиб на гребне</name><desc></desc></wpt>
+<wpt lat="42.50469" lon="19.8022"><ele>2224</ele><name>03 Karanfil Ljuljaševića 2224</name><desc>Вершина-смотровая: Грбая, Ропояна, стена Каранфилей.</desc></wpt>
+<trk><name>Разведать: Karanfil Ljuljaševića (2224) — отвилка с нашего спуска после арки</name><trkseg>
+<trkpt lat="42.509906" lon="19.797815"><ele>1830.0</ele></trkpt>
+<trkpt lat="42.509915" lon="19.798146"><ele>1830.0</ele></trkpt>
+<trkpt lat="42.510093" lon="19.798556"><ele>1867.0</ele></trkpt>
+<trkpt lat="42.510061" lon="19.798878"><ele>1867.0</ele></trkpt>
+<trkpt lat="42.509853" lon="19.799334"><ele>1899.0</ele></trkpt>
+<trkpt lat="42.509621" lon="19.799695"><ele>1899.0</ele></trkpt>
+<trkpt lat="42.509783" lon="19.800111"><ele>1926.0</ele></trkpt>
+<trkpt lat="42.509962" lon="19.80043"><ele>1926.0</ele></trkpt>
+<trkpt lat="42.510533" lon="19.800672"><ele>1934.0</ele></trkpt>
+<trkpt lat="42.510342" lon="19.801025"><ele>1938.0</ele></trkpt>
+<trkpt lat="42.510289" lon="19.801509"><ele>1938.0</ele></trkpt>
+<trkpt lat="42.510037" lon="19.80194"><ele>1946.0</ele></trkpt>
+<trkpt lat="42.509765" lon="19.802436"><ele>1968.0</ele></trkpt>
+<trkpt lat="42.509597" lon="19.803045"><ele>1984.0</ele></trkpt>
+<trkpt lat="42.50945" lon="19.803512"><ele>2006.0</ele></trkpt>
+<trkpt lat="42.509046" lon="19.803474"><ele>2023.0</ele></trkpt>
+<trkpt lat="42.508771" lon="19.803205"><ele>2027.0</ele></trkpt>
+<trkpt lat="42.508579" lon="19.802834"><ele>2027.0</ele></trkpt>
+<trkpt lat="42.508303" lon="19.802754"><ele>2072.0</ele></trkpt>
+<trkpt lat="42.508002" lon="19.802886"><ele>2072.0</ele></trkpt>
+<trkpt lat="42.507669" lon="19.802792"><ele>2072.0</ele></trkpt>
+<trkpt lat="42.50743" lon="19.802607"><ele>2093.0</ele></trkpt>
+<trkpt lat="42.507019" lon="19.802829"><ele>2093.0</ele></trkpt>
+<trkpt lat="42.506816" lon="19.803148"><ele>2093.0</ele></trkpt>
+<trkpt lat="42.50651" lon="19.803183"><ele>2122.0</ele></trkpt>
+<trkpt lat="42.506344" lon="19.803426"><ele>2161.0</ele></trkpt>
+<trkpt lat="42.50602" lon="19.803561"><ele>2161.0</ele></trkpt>
+<trkpt lat="42.50579" lon="19.803741"><ele>2200.0</ele></trkpt>
+<trkpt lat="42.505634" lon="19.803377"><ele>2200.0</ele></trkpt>
+<trkpt lat="42.50576" lon="19.80291"><ele>2180.0</ele></trkpt>
+<trkpt lat="42.505587" lon="19.802554"><ele>2180.0</ele></trkpt>
+<trkpt lat="42.505413" lon="19.80236"><ele>2129.0</ele></trkpt>
+<trkpt lat="42.505057" lon="19.802257"><ele>2129.0</ele></trkpt>
+<trkpt lat="42.50473" lon="19.802244"><ele>2150.0</ele></trkpt>
+<trkpt lat="42.505057" lon="19.802257"><ele>2129.0</ele></trkpt>
+<trkpt lat="42.505413" lon="19.80236"><ele>2129.0</ele></trkpt>
+<trkpt lat="42.505587" lon="19.802554"><ele>2180.0</ele></trkpt>
+<trkpt lat="42.50576" lon="19.80291"><ele>2180.0</ele></trkpt>
+<trkpt lat="42.505634" lon="19.803377"><ele>2200.0</ele></trkpt>
+<trkpt lat="42.50579" lon="19.803741"><ele>2200.0</ele></trkpt>
+<trkpt lat="42.50602" lon="19.803561"><ele>2161.0</ele></trkpt>
+<trkpt lat="42.506344" lon="19.803426"><ele>2161.0</ele></trkpt>
+<trkpt lat="42.50651" lon="19.803183"><ele>2122.0</ele></trkpt>
+<trkpt lat="42.506816" lon="19.803148"><ele>2093.0</ele></trkpt>
+<trkpt lat="42.507019" lon="19.802829"><ele>2093.0</ele></trkpt>
+<trkpt lat="42.50743" lon="19.802607"><ele>2093.0</ele></trkpt>
+<trkpt lat="42.507669" lon="19.802792"><ele>2072.0</ele></trkpt>
+<trkpt lat="42.508002" lon="19.802886"><ele>2072.0</ele></trkpt>
+<trkpt lat="42.508303" lon="19.802754"><ele>2072.0</ele></trkpt>
+<trkpt lat="42.508579" lon="19.802834"><ele>2027.0</ele></trkpt>
+<trkpt lat="42.508771" lon="19.803205"><ele>2027.0</ele></trkpt>
+<trkpt lat="42.509046" lon="19.803474"><ele>2023.0</ele></trkpt>
+<trkpt lat="42.50945" lon="19.803512"><ele>2006.0</ele></trkpt>
+<trkpt lat="42.509597" lon="19.803045"><ele>1984.0</ele></trkpt>
+<trkpt lat="42.509673" lon="19.802701"><ele>1984.0</ele></trkpt>
+<trkpt lat="42.50988" lon="19.802051"><ele>1968.0</ele></trkpt>
+<trkpt lat="42.510115" lon="19.80165"><ele>1938.0</ele></trkpt>
+<trkpt lat="42.510329" lon="19.801306"><ele>1938.0</ele></trkpt>
+<trkpt lat="42.510469" lon="19.800836"><ele>1938.0</ele></trkpt>
+<trkpt lat="42.509962" lon="19.80043"><ele>1926.0</ele></trkpt>
+<trkpt lat="42.509783" lon="19.800111"><ele>1926.0</ele></trkpt>
+<trkpt lat="42.509621" lon="19.799695"><ele>1899.0</ele></trkpt>
+<trkpt lat="42.509853" lon="19.799334"><ele>1899.0</ele></trkpt>
+<trkpt lat="42.510061" lon="19.798878"><ele>1867.0</ele></trkpt>
+<trkpt lat="42.510093" lon="19.798556"><ele>1867.0</ele></trkpt>
+<trkpt lat="42.509915" lon="19.798146"><ele>1830.0</ele></trkpt>
+<trkpt lat="42.509906" lon="19.797815"><ele>1830.0</ele></trkpt>
+<trkpt lat="42.509906" lon="19.797815"><ele>1830.0</ele></trkpt>
+</trkseg></trk>
+</gpx>
